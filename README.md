@@ -234,7 +234,7 @@ MediCare operates 22 hospitals and 150 clinics across the U.S., serving 1.2M+ pa
 - **Compliance:** 52% of data accesses (5,206 audit logs) lack valid purpose codes (*GDPR risk*).
 - **Operational:** Readmission rates spike to 20% for invalid ICD10 codes (e.g., *e999*).
 
-📈 [View Trend Chart](https://link_to_trend_chart)
+📈 ![2726c08b-1909-42bb-b344-78566ed95e75](https://github.com/user-attachments/assets/25545bac-81cc-4e76-a06f-54a816319964)
 
 ## 11. Insights Deep Dive
 
